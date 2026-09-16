@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "StructuredQuery.dll",
+  "latest": "3892305593-9C06307500483AC6A0A67A4BB572C2A7-1",
+  "builds": [
+    {
+      "key": "3892305593-9C06307500483AC6A0A67A4BB572C2A7-1",
+      "timestamp": "3892305593",
+      "pdb_guid": "9C06307500483AC6A0A67A4BB572C2A7",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/3892305593-9C06307500483AC6A0A67A4BB572C2A7-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
